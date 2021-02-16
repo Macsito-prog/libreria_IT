@@ -5,5 +5,8 @@
 Todo el contenido de este repositorio es de uso legal, ya que la editorial <a href=https://www.springer.com/la target="_blank">Springer</a> liberó el acceso a estos libros.</p>
 <hr>
 <br>
-<h2>Categorías</h2
-  
+<h2>Podrás encontrar libros de <img src="https://images.emojiterra.com/google/android-11/128px/1f4d6.png" height="20px" width="20px"/></h2>
+<p>Minería de Datos</p>
+<p>Inteligencia Artificial</p>
+<p>Internet of things</p>
+<p>Excel</p>
