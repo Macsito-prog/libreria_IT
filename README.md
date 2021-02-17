@@ -1,4 +1,4 @@
-</a>Libreria de Informática <a title="github" href="https://github.com/Macsito-prog" target="_blank"><img src="http://pngimg.com/uploads/github/github_PNG40.png" height ="20px" width="20px"/></a></h1>
+<h1>Libreria de Informática <a title="github" href="https://github.com/Macsito-prog" target="_blank"><img src="http://pngimg.com/uploads/github/github_PNG40.png" height ="20px" width="20px"/></a></h1>
 <p>En esta página podrán encontrar distintas variedades de libros en formato PDF, clasificados por categoría y escritor.
 Todo el contenido de este repositorio es de uso legal, ya que la editorial <a href=https://www.springer.com/la target="_blank">Springer</a> liberó el acceso a estos libros.</p>
 <hr>
