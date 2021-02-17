@@ -10,3 +10,5 @@ Todo el contenido de este repositorio es de uso legal, ya que la editorial <a hr
 <p>Inteligencia Artificial</p>
 <p>Internet of things</p>
 <p>Excel</p>
+<h2>Colaboraciones</h2>
+<p>Puedes realizar un fork de este repositorio y agregar tu propio conjunto de libros o recomendaciones para así luego de revisar, ejecutar un pull request y todos podamos acceder a nuevas bibliografías.</p>
